@@ -35,7 +35,8 @@
   align-items: center;
   justify-content: center;
   height: 90vh;
-  color: black;
+  color: White;
+  text-shadow: 5px 5px 10px;
 }
 .about .about-content{
   margin: 150px auto 0 auto;
