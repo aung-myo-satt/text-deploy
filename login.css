@@ -43,10 +43,8 @@ button{
   #login{
   background: url("bg-login.jpg");
   /*background: linear-gradient*/(lightCyan,skyBlue,deepSkyBlue);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center;
-  background-attachment: fixed;
 }
 
 }
