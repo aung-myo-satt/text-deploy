@@ -8,16 +8,7 @@
   background-attachment: fixed;
 }
 
-.box{
-  align-items: center;
-  border: solid 2px deepSkyBlue;
-  border-radius: 30px;
-  margin: auto;
-  width: 75%;
-  height: 100%;
-  padding: 20px;
-  background:linear-gradient(45deg,lightCyan,deepSkyBlue,skyBlue);
-}
+
 
 h1, button{
   text-align: center;
@@ -39,4 +30,15 @@ button{
 }
 .hover-me:hover{
   background-color: deepSkyBlue;
+}
+
+.box{
+  align-items: center;
+  border: solid 2px deepSkyBlue;
+  border-radius: 30px;
+  margin: auto;
+  width: 75%;
+  height: 100%;
+  padding: 20px;
+  background:linear-gradient(45deg,lightCyan,deepSkyBlue,skyBlue);
 }
