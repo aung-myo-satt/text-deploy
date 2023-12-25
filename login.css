@@ -2,8 +2,23 @@
   background: url("bg-login.jpg");
   /*background: linear-gradient(lightCyan,skyBlue,deepSkyBlue);
   */background-size: cover;
-  height: 100vh;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
+
+.box{
+  align-items: center;
+  border: solid 2px deepSkyBlue;
+  border-radius: 30px;
+  margin: auto;
+  width: 75%;
+  height: 100%;
+  padding: 20px;
+  background:linear-gradient(45deg,lightCyan,deepSkyBlue,skyBlue);
+}
+
 h1, button{
   text-align: center;
   font-family: Roboto;
@@ -24,11 +39,4 @@ button{
 }
 .hover-me:hover{
   background-color: deepSkyBlue;
-}
-.box{
-  border: solid 2px deepSkyBlue;
-  border-radius: 30px;
-  margin: 10%;
-  padding: 20px;
-  background:linear-gradient(45deg,lightCyan,deepSkyBlue,skyBlue);
 }
