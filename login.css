@@ -38,3 +38,15 @@ button{
   padding: 20px;
   background:linear-gradient(45deg,lightCyan,deepSkyBlue,skyBlue);
 }
+
+@media(max-width: 610px){
+  
+  .box{
+  border: solid 2px deepSkyBlue;
+  border-radius: 30px;
+  margin: auto;
+  padding: 20px;
+  background:linear-gradient(45deg,lightCyan,deepSkyBlue,skyBlue);
+}
+
+}
