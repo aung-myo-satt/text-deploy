@@ -40,11 +40,9 @@ button{
 }
 
 @media(max-width: 610px){
-  #login{
+#login{
   background: url("bg-login.jpg");
-  /*background: linear-gradient*/(lightCyan,skyBlue,deepSkyBlue);
-  background-repeat: repeat;
-  background-position: center;
+  background: linear-gradient(lightCyan,skyBlue,deepSkyBlue);
+ 
 }
-
 }
