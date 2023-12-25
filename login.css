@@ -34,12 +34,9 @@ button{
 }
 
 .box{
-  align-items: center;
   border: solid 2px deepSkyBlue;
   border-radius: 30px;
-  margin: auto;
-  width: 75%;
-  height: 100%;
+  margin: auto 30px;
   padding: 20px;
   background:linear-gradient(45deg,lightCyan,deepSkyBlue,skyBlue);
 }
