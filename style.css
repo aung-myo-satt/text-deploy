@@ -155,7 +155,7 @@
   color: #aa00ff;
 }
 
-/*#login{
+.login{
  background: url("bg-login.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -164,7 +164,7 @@
   height: 100%;
   width: 100%;
   position: fixed;
-}*/
+}
 
 
 
