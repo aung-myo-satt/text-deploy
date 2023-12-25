@@ -21,6 +21,8 @@ input{
   border: solid 2px deepSkyBlue;
   border-radius: 20px;
 }
+
+
 button{
   width: 30%;
   margin: 20px;
@@ -31,6 +33,7 @@ button{
 .hover-me:hover{
   background-color: deepSkyBlue;
 }
+
 
 .box{
   border: solid 2px deepSkyBlue;
