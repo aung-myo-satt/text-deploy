@@ -1,6 +1,7 @@
 #login{
-  background: linear-gradient(lightCyan,skyBlue,deepSkyBlue);
-  background-size: cover;
+  background: url("bg-login.jpg");
+  /*background: linear-gradient(lightCyan,skyBlue,deepSkyBlue);
+  */background-size: cover;
   height: 100vh;
 }
 h1, button{
