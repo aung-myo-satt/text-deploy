@@ -86,10 +86,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position:top;
+  background-position: center 30px;
   height: 100%;
   width: 100%;
-  position: relative;
+  position: fixed;
 }
 .home .text-container{
   font-size: 20px;
