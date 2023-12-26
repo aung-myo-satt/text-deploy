@@ -86,8 +86,8 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  /*background-position: center;
-  height: 100%;
+  background-position: center;
+  /*height: 100%;
   width: 100%;
   position: fixed;*/
 }
@@ -267,9 +267,6 @@ form {
   width: 200px;
 }
 
-#pwcheck{
-  font-size: 5px;
-}
 
   
 }
