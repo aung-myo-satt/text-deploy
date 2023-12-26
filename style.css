@@ -98,8 +98,8 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  color: whitesmoke;
-  text-shadow: 5px;
+  color: #ffffff;
+  text-shadow: 5px 1px 10px;
 }
 .about .about-content{
   margin: 150px auto 0 auto;
@@ -113,7 +113,7 @@
 .about .about-content p{
   text-align: justify;
   font-family: 'Lato',Sans-Serif;
-  color:#aadfff;
+  color:darkblue;
   font-size: 20px
 }
 .services .services-content{
@@ -242,25 +242,13 @@ form {
   #check:checked ~ .menu{
     right: 0;
   }
-  
-  .home .text-container{
-  font-size: 10px;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  color: whitesmoke;
-  text-shadow: 5px;
-}
 
+.home .text-container{
+  font-size: 10px;
+}
 .about .about-content{
   margin: 50px auto 0 auto;
   width:300px;
-}
-
-.about .about-content p{
-  font-size: 10px;
 }
 
 .services-content .card-container ul li img{
